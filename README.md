@@ -4,7 +4,7 @@
 
 I'm a Backend Engineer and a Data Analyst in training. I'm also a freelance Transcriber, Proofreader, and Editor for several companies.
 
-Languages: Python, R, C++, Javascript, Html, CSS, SQL.
+Languages: Python, R, C#, Javascript, Html, CSS, SQL.
 
 **Here's a quick summary about me**:
 
