@@ -12,7 +12,7 @@ Languages: Python, R, C#, Javascript, Html, CSS, SQL.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering), Class of 2022.
 - 💡 I'm currently working on a few side projects, one of which is a sentence analyzer for my fellow transcribers.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Backend Engineer, Data Analyst, Frontend Engineer, or UI Engineer, Editor, Proofreader, Transcriber (Intern or Junior level).
+- 💼 Job interests: Data Analyst, Backend Engineer, Editor, Proofreader, Transcriber (Intern or Junior level).
 - 📫 You can contact me by emailing alexanderking.aa@gmail.com.
 
 ---
