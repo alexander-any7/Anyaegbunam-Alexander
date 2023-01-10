@@ -5,11 +5,11 @@
 I'm a 
 
 - **Languages**: Python, SQL, R, JavaScript, HTML, CSS, Markdown
-- **Database management systems**: PostgreSQL, Google BigQuery
+- **Database Management Systems**: PostgreSQL, Google BigQuery
 - **API Frameworks**: Flask API, FastAPI, Flask-RESTX
 - **Web Frameworks**: Flask, Django
 - **ORMs**: SQLAlchemy
-- **Data Analytical tools**: Excel, Google Sheets
+- **Data Analytical Tools**: Excel, Google Sheets
 - **Data Visualization Tools**: Tableau
 - **Notebooks**: Jupyter Notebook, Google Colab
 - **Collaboration platforms**: GitHub, Google Colab, Posit Cloud
