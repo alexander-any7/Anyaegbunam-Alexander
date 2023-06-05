@@ -11,6 +11,9 @@ I am Alexander Anyaegbunam. Here are some of the programming languages, tools, a
 - **Data Visualization Tools**: Tableau
 - **Notebooks**: Jupyter Notebook, Google Colab
 - **Collaboration platforms**: GitHub, Google Colab, Posit Cloud
+- **Deployment and Containerization Tools**: Docker
+- **Data Storage and Caching Systems**: Redis
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyaegbunam-Alexander&show_icons=true&include_all_commits=true&hide_border=true" alt="Alexander's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaegbunam-Alexander&langs_count=8&layout=compact&hide_border=true" alt="Alexander's GitHub stats" /> |
