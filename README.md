@@ -5,7 +5,7 @@ I am Alexander Anyaegbunam. Here are some of the programming languages, tools, a
 - **Programming Languages**: Python, SQL, R, JavaScript, HTML, CSS, Markdown
 - **Database Management Systems**: PostgreSQL, Google BigQuery
 - **API Frameworks**: Flask API, FastAPI, Flask-RESTX
-- **Web Frameworks**: Flask, Django
+- **Web Frameworks**: Flask, Django, React
 - **ORMs**: SQLAlchemy
 - **Data Analytical Tools**: Excel, Google Sheets
 - **Data Visualization Tools**: Tableau
@@ -13,6 +13,8 @@ I am Alexander Anyaegbunam. Here are some of the programming languages, tools, a
 - **Collaboration platforms**: GitHub, Google Colab, Posit Cloud
 - **Deployment and Containerization Tools**: Docker
 - **Data Storage and Caching Systems**: Redis
+- **Machine Learning Frameworks**: TensorFlow
+
 
 ---
 
@@ -21,8 +23,7 @@ I am Alexander Anyaegbunam. Here are some of the programming languages, tools, a
 
 
 👤 **Alexander Anyaegbunam**
-- Portfolio [About Alexander](https://alexander-anyaegbunam-c.herokuapp.com/)
-- GitHub: [@Anyaegbunam-Alexander](https://github.com/Anyaegbunam-Alexander/)
+- Portfolio [About Alexander](https://anyaegbunam-alexander.github.io/)
 - Twitter: [@AnyaegbunamaA](https://twitter.com/AnyaegbunamaA)
 - LinkedIn: [@Alexander Anyaegbunam](https://www.linkedin.com/in/alexander-anyaegbunam-094141154)
 - Mail: anyaegbunamalexander042@gmail.com
