@@ -4,7 +4,7 @@ I am Alexander Anyaegbunam. Here are some of the programming languages, tools, a
 
 - **Programming Languages**: Python, SQL, R, JavaScript, HTML, CSS, Markdown
 - **Database Management Systems**: PostgreSQL, Google BigQuery
-- **API Frameworks**: Flask API, FastAPI, Flask-RESTX
+- **API Frameworks**: Django REST, Flask API, FastAPI, Flask-RESTX
 - **Web Frameworks**: Flask, Django, React
 - **ORMs**: SQLAlchemy
 - **Data Analytical Tools**: Excel, Google Sheets
