@@ -1,26 +1,10 @@
-# Hello there; welcome 👋🏾
+# Hi, I'm Alex.
 
-I am Alexander Anyaegbunam. Here are some of the programming languages, tools, and platforms that I have experience working with:
-
-- **Programming Languages**: Python, SQL, R, JavaScript, HTML, CSS, Markdown
-- **Database Management Systems**: PostgreSQL, Google BigQuery
-- **API Frameworks**: Django REST, Flask API, FastAPI, Flask-RESTX
-- **Web Frameworks**: Flask, Django, React
-- **ORMs**: SQLAlchemy
-- **Data Analytical Tools**: Excel, Google Sheets
-- **Data Visualization Tools**: Tableau
-- **Notebooks**: Jupyter Notebook, Google Colab
-- **Collaboration platforms**: GitHub, Google Colab, Posit Cloud
-- **Deployment and Containerization Tools**: Docker
-- **Data Storage and Caching Systems**: Redis
-- **Machine Learning Frameworks**: TensorFlow
-
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyaegbunam-Alexander&show_icons=true&include_all_commits=true&hide_border=true" alt="Alexander's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaegbunam-Alexander&langs_count=8&layout=compact&hide_border=true" alt="Alexander's GitHub stats" /> |
-| ------------- | ------------- |
-
+- 🐍 I've been coding in Python primarily for over a year
+- 👷‍♂️ I currently work as a backend developer with Django and Django REST as my main frameworks
+- 😊 I have occasionally had to work with other languages like Javascript, Go, etc.
+- 🏫 I am currently learning and building a cross-platform desktop application with Electron and Node.js  
+- 💪 Working with and learning new technologies is a gladly-welcomed challenge for me
 
 👤 **Alexander Anyaegbunam**
 - Portfolio [About Alexander](https://anyaegbunam-alexander.github.io/)
