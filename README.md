@@ -1,6 +1,6 @@
 # Hi, I'm Alex.
 
-- 🐍 I've been coding in Python primarily for over a year
+- 🐍 I've been coding in Python primarily for over 2 years
 - 👷‍♂️ I currently work as a full stack developer (backend-heavy) with Django and Django REST as my main frameworks
 - 😊 I occasionally work with other languages like Javascript and Go.
 - 🏫 I am currently learning and building a cross-platform desktop application with Electron and Node.js   
