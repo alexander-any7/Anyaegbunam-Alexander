@@ -1,10 +1,6 @@
 # Hi, I'm Alex.
 
-- 🐍 I've been coding in Python primarily for over 2 years
-- 👷‍♂️ I currently work as a full stack developer (backend-heavy) with Django and Django REST as my main frameworks
-- 😊 I occasionally work with other languages like Javascript and Go.
-- 🏫 I am currently learning and building a cross-platform desktop application with Electron and Node.js   
-- 💪 Working with and learning new technologies is a gladly-welcomed challenge for me
+- 🐍 I am a Python backend developer.
 
 👤 **Alexander Anyaegbunam**
 - Blog: [Medium](https://medium.com/@invictus_axl)
