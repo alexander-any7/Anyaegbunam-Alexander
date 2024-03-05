@@ -1,6 +1,6 @@
 # Hi, I'm Alex.
 
-- 🐍 I am a Python backend developer.
+DevRel | Backend | Django Enthusiast 
 
 👤 **Alexander Anyaegbunam**
 - Blog: [Medium](https://medium.com/@invictus_axl)
